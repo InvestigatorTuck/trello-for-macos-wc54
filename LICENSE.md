@@ -1,4 +1,4 @@
-
+Enhance Trello for macOS with secure Tool for Trello for macOS - note encryption and reminders, the #1 tool. Includes note encryption and reminders for a smoother experience.
 
 
 
